@@ -172,7 +172,10 @@ ${toBold("Above 7 Correct")} ah answer panna unnaku oru ${toBold("reward")} irru
 illa ${toBold("Out")} aaita keela irrukuradhula naa soldratha ${toBold("One day full")} ah ${toBold("Notes")} vaikanum \n
  ${toBold("Click Here!")}`;
   // OUT aanavanga ku (inga vera msg ezhudhu)
-  const msgOut = `${toBold("Hi")} \nNaan out aayitten 😅 Nee try pannu, 8 edukka mudiyumaa paapom!`;
+  const msgOut = `${toBold("Hi!")} Enna pathi idhula ketruka questions ku ${toBold("Correct")} ah answer pannu... \n
+${toBold("Above 7 Correct")} ah answer panna unnaku oru ${toBold("reward")} irruku \n
+illa ${toBold("Out")} aaita keela irrukuradhula naa soldratha ${toBold("One day full")} ah ${toBold("Notes")} vaikanum \n
+ ${toBold("Click Here!")}`;
   const dare = `${toBold("DARE NOTES:")}
 1.Crush kitta pesiten 😭❤️ \n
 2.Enakku oruthan mela feelings irukku 👀 \n
