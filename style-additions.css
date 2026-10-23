@@ -1,0 +1,15 @@
+/* ===== Header / footer / info pages (style.css kadaisi la paste pannu) ===== */
+.shell { width: 100%; max-width: 720px; display: flex; flex-direction: column; align-items: center; gap: 18px; padding: 8px 0; }
+.shell main { width: 100%; }
+.brand-link { display: flex; align-items: center; gap: 10px; text-decoration: none; color: #fff; }
+.logo { height: 44px; width: auto; border-radius: 10px; }
+.brand { font: 700 26px "Fredoka", sans-serif; text-shadow: 3px 3px 0 var(--ink); }
+.site-footer { text-align: center; color: #fff; font-size: 14px; }
+.site-footer a { color: #fff; font-weight: 600; margin: 0 10px; }
+.site-footer p { margin: 8px 0 0; opacity: .8; }
+.page h2 { font-size: 20px; margin: 22px 0 8px; }
+.page p, .page li { line-height: 1.6; }
+.page ul { padding-left: 20px; margin: 0 0 16px; }
+.page a { color: var(--purple); font-weight: 600; }
+.back { display: inline-block; margin-bottom: 14px; font-weight: 600; color: var(--purple); text-decoration: none; }
+.updated { font-size: 13px; opacity: .6; }
